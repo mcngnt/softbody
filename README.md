@@ -2,7 +2,7 @@
  Softbody simulation using a spring model.
 
 ## How does it work ?
-This simulation use the euler integration for the moving each dot of the softbody. The springs in the soft body use the Hooke's law for applying foorces. Finally the convex shapes collisions are handled using a raycasting algorithm. The simulation also provides a way to create new shapes.
+This simulation uses the Euler's integration for moving each dot of the softbody. The springs in the soft body use the Hooke's law for applying forces. Finally, the convex shapes collisions are handled using a raycasting algorithm. The simulation also provides a way to create new shapes.
 
 ![](res/demo.gif)
 
